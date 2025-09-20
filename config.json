@@ -1,0 +1,13 @@
+{
+  "blur_kernel_size": 5,
+  "threshold_block_size": 11,
+  "threshold_c": 2,
+  "min_bubble_area": 50,
+  "max_bubble_area": 2000,
+  "min_contour_area": 30,
+  "min_questions": 10,
+  "min_options": 4,
+  "grid_tolerance": 0.1,
+  "correct_mark_threshold": 0.3,
+  "partial_credit": false
+}
